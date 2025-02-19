@@ -9,6 +9,7 @@ export default function App() {
         <h1>Dictionary</h1>
         <Dictionary />
       </header>
+      <footer>This project is coded by Anne Sura</footer>
       </div>
     </div>
   );
