@@ -7,9 +7,9 @@ export default function App() {
       <div className="container">
       <header className="App-header">
         <h1>Dictionary</h1>
-        <Dictionary />
+        <Dictionary defaultKeyword="eclipse" />
       </header>
-      <footer>This project is coded by Anne Sura</footer>
+      <footer>This project is coded by Anne Sura, and is open-sourced on <a href="https://github.com/annesura/react-dictionary-project" target="_blank" rel="noreferrer" >GitHub</a>.</footer>
       </div>
     </div>
   );

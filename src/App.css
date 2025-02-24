@@ -6,3 +6,23 @@
   margin: 30px;
 }
 
+h1 {
+  margin-bottom: 40px;
+}
+
+body {
+  background: #dbd8e3;
+  max-width: fit-content;
+  margin: 0 auto;
+  font-family: "Besley", serif;
+}
+
+.App a {
+  text-decoration: none;
+  color: #352f44;
+}
+
+.App footer {
+  margin: 25px 0;
+  font-size: 14px;
+}
