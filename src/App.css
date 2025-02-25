@@ -6,8 +6,9 @@
   margin: 30px;
 }
 
-h1 {
-  margin-bottom: 40px;
+.App .main {
+  margin: 60px 0;
+  font-size: 46px;
 }
 
 body {
