@@ -11,7 +11,7 @@ h1 {
 }
 
 body {
-  background: #dbd8e3;
+  background: #ececec;
   max-width: 100%;
   margin: 0 auto;
   font-family: "Besley", serif;
@@ -19,7 +19,7 @@ body {
 
 .App a {
   text-decoration: none;
-  color: #352f44;
+  color: #393e46;
 }
 
 .App footer {

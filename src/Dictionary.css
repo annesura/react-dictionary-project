@@ -15,7 +15,7 @@
 .Dictionary input {
     border-radius: 8px;
     padding: 10px;
-    border: 1px solid #352f44;
+    border: 1px solid #393e46;
 }
 
 .SearchBar {
@@ -26,7 +26,7 @@
 .SearchButton {
     width: 27%;
     margin-left: 5px;
-    background-color: #352f44;
+    background-color: #393e46;
     color: #fff;
 }
 
